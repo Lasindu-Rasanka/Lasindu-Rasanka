@@ -1,63 +1,89 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate Full Stack Developer from [Your Country]</h3>
-
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/YCZH.gif">
-
-- 🔭 I’m currently working on **[Your Project Name]**
-
-- 🌱 I’m currently learning **[Tech Stack or Tools you're learning]**
-
-- 👯 I’m looking to collaborate on **Open Source MERN stack & mobile projects**
-
-- 💬 Ask me about **React, Node.js, MongoDB, Android (Kotlin), and Firebase**
-
-- 📫 How to reach me **your.email@example.com**
-
-- ⚡ Fun fact **I love crafting UI like Etsy and solving problems like Sherlock!**
-
----
-
-### 🛠️ Languages and Tools:
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/>
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There!+👋+I'm+Your+Name;Full+Stack+Developer;MERN+Stack+Specialist;Android+%26+Web+App+Developer&font=Fira%20Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
 </p>
-
----
-
-### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="Your Name's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
 ---
 
-### 📂 Top Projects
+### 👨‍💻 About Me
 
-- 🔗 [CraftMart - Handmade Marketplace (MERN Stack)](https://github.com/your-username/craftmart)
-- 🔗 [MySafeLine - Emergency Call Android App](https://github.com/your-username/mysafeline)
-- 🔗 [TaskTracker - Productivity App (Kotlin)](https://github.com/your-username/tasktracker)
+- 🌍 I'm from **Your Country**
+- 🔭 Currently building: `CraftMart` - Handmade E-commerce Marketplace 🛍️  
+- 📱 Android app creator: `MySafeLine` – Emergency Call App  
+- 🌱 Learning: **TypeScript, Next.js, Firebase**
+- 🎯 Goal: Become a world-class full stack + mobile app engineer
+- ⚡ Fun fact: I design like a creative and code like a machine 🚀
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,js,html,css,tailwind,kotlin,androidstudio,figma,git,github,vite,bootstrap,firebase" />
+</div>
+
+---
+
+### 📈 GitHub Stats & Streaks
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-github-username&theme=tokyonight" />
+</p>
+
+---
+
+### 📂 Featured Projects
+
+| Project | Tech Stack | Demo / Repo |
+|--------|------------|-------------|
+| 🛍️ **CraftMart** | MERN Stack, Multer, Vite, Tailwind CSS | [GitHub Repo](https://github.com/your-github-username/craftmart) |
+| 📱 **MySafeLine** | Kotlin, SQLite, Android Studio | [GitHub Repo](https://github.com/your-github-username/mysafeline) |
+| ✅ **TaskTracker** | Kotlin, Room DB, Notifications | [GitHub Repo](https://github.com/your-github-username/tasktracker) |
 
 ---
 
 ### 🔗 Connect with Me
 
-<p align="left">
-<a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" /></a>
-<a href="https://github.com/your-username" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="30" /></a>
-<a href="mailto:your.email@example.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" /></a>
+<p align="center">
+  <a href="https://github.com/your-github-username"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" height="40" /></a>
 </p>
 
 ---
 
-> 🔥 Keep coding, keep building, and never stop learning!
+### 📊 Weekly Coding Stats
+
+<!-- Use https://github.com/anuraghazra/github-readme-stats or Wakatime -->
+<!-- Requires a Wakatime account if you want live stats -->
+<!-- Remove this section if not needed -->
+
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=tokyonight)
+
+---
+
+### 🧠 Quote of the Day
+
+> _“Programs must be written for people to read, and only incidentally for machines to execute.”_  
+> — **Harold Abelson**
+
+---
+
+### 🙌 Thanks for visiting!
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=your-github-username&icon=2&color=4" />
+</p>
+
+---
 
