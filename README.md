@@ -11,11 +11,10 @@
 
 ### 👨‍💻 About Me
 
-- 🌍 I'm from **Your Country**
-- 🔭 Currently building: `CraftMart` - Handmade E-commerce Marketplace 🛍️  
-- 📱 Android app creator: `MySafeLine` – Emergency Call App  
-- 🌱 Learning: **TypeScript, Next.js, Firebase**
-- 🎯 Goal: Become a world-class full stack + mobile app engineer
+- 🌍 I'm from Sri Lanka
+- 🔭 Currently building: Academic Shedular Web Application   
+- 🌱 Learning: Linux, Cloud Providers (AWS), Docker
+- 🎯 Goal: Become a world-class full stack Developer
 - ⚡ Fun fact: I design like a creative and code like a machine 🚀
 
 ---
