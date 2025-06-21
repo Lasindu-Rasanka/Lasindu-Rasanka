@@ -13,7 +13,7 @@
 
 - 🌍 I'm from Sri Lanka
 - 🔭 Currently building: Academic Shedular Web Application   
-- 🌱 Learning: Linux, Cloud Providers (AWS), Docker
+- 🌱 Learning: Linux, Cloud Providers (AWS), Docker, Python
 - 🎯 Goal: Become a world-class full stack Developer
 - ⚡ Fun fact: I design like a creative and code like a machine 🚀
 
