@@ -19,7 +19,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ tech
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,js,html,css,tailwind,kotlin,androidstudio,figma,git,github,vite,bootstrap,firebase" />
