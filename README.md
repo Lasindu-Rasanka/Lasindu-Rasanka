@@ -47,7 +47,7 @@ I'm a **Third Year IT Undergraduate** at **SLIIT** specializing in Information T
 
 Here are some of my notable projects:
 
-### [Handmade Goods E-Commerce](https://github.com/Lasindu-Rasanka/handmade-ecommerce)
+### [Handmade Goods E-Commerce](https://github.com/Lasindu-Rasanka/CraftMart-MernStack.git)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
