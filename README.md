@@ -53,7 +53,7 @@ Here are some of my notable projects:
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-Full-stack application for browsing and purchasing handmade items (Group Project)
+Full-stack application for browsing and purchasing handmade items
 
 ---
 
@@ -71,11 +71,14 @@ A responsive portfolio website with an integrated AI chatbot, built with:
 
 ---
 
-### [Smart Academic Scheduler](https://github.com/Lasindu-Rasanka/academic-scheduler)
+### [Smart Academic Scheduler](https://github.com/PathumGunasekara/AcademicY3.git)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-Automated timetable planning and study routine optimization system (Group Project)
+A **full-stack MERN application** with machine learning capabilities for automated timetable generation and study optimization.
 
 ## 📊 GitHub Stats
 
