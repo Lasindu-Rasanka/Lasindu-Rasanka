@@ -1,8 +1,8 @@
 # Hi there, I'm Lasindu Rasanka 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lasindu-rasanka)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-url.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lasindu5909@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://lasindu-rasanka.github.io/Portfolio-App/)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Lasindu-Rasanka&show_icons=true&theme=radical" alt="Lasindu's GitHub stats" width="400"/>
 
