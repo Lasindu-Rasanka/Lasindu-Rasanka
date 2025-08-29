@@ -17,13 +17,6 @@
 
 ---
 
-## 🌟 Projects  
-- [CraftMart - Handmade Goods E-Commerce](https://github.com/Lasindu-Rasanka/CraftMart-MernStack)  
-- [AI-Powered Portfolio Web App](https://github.com/Lasindu-Rasanka/Portfolio-App.git) | [Live Demo](https://lasindu-rasanka.github.io/Portfolio-App/)  
-- [Smart Academic Scheduler](https://github.com/PathumGunasekara/AcademicY3.git)  
-
----
-
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lasindu-Rasanka&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lasindu-Rasanka&layout=compact&theme=radical)  
