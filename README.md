@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=22F729&width=435&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;AI%2FML+Learner)](https://git.io/typing-svg)  
 
 🎓 IT Undergraduate at **SLIIT**  
-💻 Passionate about **Full-Stack Development, Cloud & AI/ML**  
+💻 Passionate about **Full-Stack Development**  
 📫 Reach me: [lasindu5909@gmail.com](mailto:lasindu5909@gmail.com) | [LinkedIn](https://www.linkedin.com/in/lasindu-rasanka) | [Portfolio](https://lasindu-rasanka.github.io/Portfolio-App/)  
 
 ---
